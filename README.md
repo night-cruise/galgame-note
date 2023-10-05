@@ -23,6 +23,12 @@
 * 同居恋人洛丽塔
 * 爱欲姐妹洛丽塔
 
+## 最喜欢的女主
+
+最喜欢的 gal 女主记录在[这里](https://github.com/night-cruise/galgame-note/issues/2):
+* 因幡爱榴
+* 奈奈瀬奉莉
+
 ## 记录
 
 * [天津罪](https://github.com/night-cruise/galgame-note/issues/1)
