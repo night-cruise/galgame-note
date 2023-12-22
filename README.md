@@ -1,8 +1,5 @@
-# galgame-note
+# galgame-not
 
-记录推完的 galgame。
-
-之前还有一些推完的 gal 没有记录，包括：
 * 魔女的夜宴
 * school days
 * shinny days
@@ -22,13 +19,19 @@
 * 扔掉黄书以后兄长情况有异
 * 同居恋人洛丽塔
 * 爱欲姐妹洛丽塔
+* 海猫鸣泣之时 出题篇
+* 海猫鸣泣之时 散篇
+* 魔法使之夜
+* 现在就想告诉哥哥，我是妹妹！
 
 ## 最喜欢的女主
 
-最喜欢的 gal 女主记录在[这里](https://github.com/night-cruise/galgame-note/issues/2):
 * 因幡爱榴
 * 奈奈瀬奉莉
+* 苍崎青子
+* 久远寺有珠
 
-## 记录
+## 最喜欢的男主
 
-* [天津罪](https://github.com/night-cruise/galgame-note/issues/1)
+* 静木希草十郎
+* 右代宫战人
