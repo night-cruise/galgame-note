@@ -52,4 +52,3 @@
 ![portrait_ep5](https://github.com/night-cruise/galgame-note/assets/77157236/cb083e5d-895e-4ccd-950e-9a827c14cf7a)
 ![portrait_ep6](https://github.com/night-cruise/galgame-note/assets/77157236/c37571ea-28f2-4023-abf6-b7b1635a385e)
 ![portrait_ep7](https://github.com/night-cruise/galgame-note/assets/77157236/3e7a1353-2a8a-40c5-b878-780e72ef591c)
-![portrait_ep8](https://github.com/night-cruise/galgame-note/assets/77157236/66bb1602-29ab-483a-abb4-02ffbc748565)
