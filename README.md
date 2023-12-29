@@ -1,4 +1,4 @@
-# galgame-not
+# galgame-note
 
 * 腐姬
 * 海猫鸣泣之时 出题篇
